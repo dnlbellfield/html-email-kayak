@@ -1,12 +1,8 @@
 # html-email-kayak
 
-
-
-**Please open all issues with this template on the main [Foundation for Emails](http://github.com/zurb/foundation-emails/issues) repo.**
-
 [Kayak Promo Email](https://kayak-promotional-email.netlify.app/)
 
-This is the official starter project for [Foundation for Emails](http://foundation.zurb.com/emails), a framework for creating responsive HTML devices that work in any email client. It has a Gulp-powered build system with these features:
+This is the a project built with [Foundation for Emails](http://foundation.zurb.com/emails), a framework for creating responsive HTML devices that work in any email client. It has a Gulp-powered build system with these features:
 
 - Handlebars HTML templates with [Panini](http://github.com/zurb/panini)
 - Simplified HTML email syntax with [Inky](http://github.com/zurb/inky)
