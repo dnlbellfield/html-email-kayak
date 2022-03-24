@@ -1,5 +1,5 @@
 # html-email-kayak
-# Foundation for Emails Template
+
 
 
 **Please open all issues with this template on the main [Foundation for Emails](http://github.com/zurb/foundation-emails/issues) repo.**
